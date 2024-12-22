@@ -1,0 +1,42 @@
+[	
+	{
+		"in": "CCJRSJ",
+		"out": "impressive"
+	},
+	{
+		"in": "CRJS",
+		"out": "embarrassing"
+	},
+	{
+		"in": "CCRSRCRCRSJCJSJSJJ ",
+		"out": "impressive"
+	},
+	{
+		"in": "CJRS",
+		"out": "impressive"
+	},
+	{
+		"in": "CJRSCRSRRCCJJCRCJJJSSJ",
+		"out": "embarrassing"
+	},
+	{
+		"in": "CJRSRRSRRCCJJCRCJSJSSJ",
+		"out": "embarrassing"
+	},
+	{
+		"in": "CJRSCRSRRCCJJCRCJSJSSJ",
+		"out": "impressive"
+	},
+	{
+		"in": "RSCJCJCCJJRSCJCJCRRSSCJJ",
+		"out": "impressive"
+	},
+	{
+		"in": "CRSJCCJCRRSSJJCJRCRSCJCJ",
+		"out": "embarrassing"
+	},
+	{
+		"in": "CJCJRSCJCRSJCCJCSJRS",
+		"out": "embarrassing"
+	}
+]
