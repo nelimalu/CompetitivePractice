@@ -4,6 +4,7 @@ initial = [0, 1, 2]
 def permutations(current: list):
 	if len(current) == len(initial):
 		print(*current)
+		return
 
 	for i in initial:
 		if i not in current:
