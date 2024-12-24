@@ -1,9 +1,12 @@
-n = 5
+n = 16
+count = 0
 
 
 def solve(locations, level):
+	global count
+
 	if len(locations) == n:
-		print(locations)
+		count += 1
 		return locations
 
 	for x in range(n):
@@ -22,3 +25,4 @@ def solve(locations, level):
 
 
 solve([], 0)
+print(count)
